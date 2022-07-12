@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dilruba Majumder</h1>
-<h3 align="center">Aspiring full stack developer, curious to learn more about the world of Software Development and trying new food!</h3>
+<h3 align="center">Aspiring full stack developer, curious to learn more about the world of Software Development!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilrubamajumder" alt="dilrubamajumder" /></a> </p>
 
